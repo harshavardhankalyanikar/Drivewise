@@ -1,0 +1,62 @@
+[
+  {
+    "question": "What is the mileage of Maruti Suzuki Baleno CNG?",
+    "expected_answer": "The Baleno CNG offers a mileage of 30.61 km/kg.",
+    "expected_sources": [
+      {
+        "document_name": "maruti_baleno_2026.pdf",
+        "page": 2
+      }
+    ]
+  },
+  {
+    "question": "Does the Hyundai Creta have a sunroof?",
+    "expected_answer": "A single-pane electric sunroof is standard from the S variant upwards.",
+    "expected_sources": [
+      {
+        "document_name": "hyundai_creta_2026.pdf",
+        "page": 3
+      }
+    ]
+  },
+  {
+    "question": "What safety rating does the Tata Nexon have?",
+    "expected_answer": "The Tata Nexon achieved a 5-star Global NCAP safety rating (Adult and Child Occupant Protection).",
+    "expected_sources": [
+      {
+        "document_name": "tata_nexon_2026.pdf",
+        "page": 2
+      }
+    ]
+  },
+  {
+    "question": "What is the engine displacement of the Grand i10 Nios?",
+    "expected_answer": "The Grand i10 Nios has an engine displacement of 1197 cc (cm3) for the 1.2 l Kappa petrol engine.",
+    "expected_sources": [
+      {
+        "document_name": "grand-i10-nios.pdf",
+        "page": 12
+      }
+    ]
+  },
+  {
+    "question": "How many airbags are standard across all variants of Grand i10 Nios?",
+    "expected_answer": "It features 6 airbags (Driver, Passenger, Side, and Curtain) standard across all variants of Grand i10 Nios.",
+    "expected_sources": [
+      {
+        "document_name": "grand-i10-nios.pdf",
+        "page": 5
+      }
+    ]
+  },
+  {
+    "question": "What technology does the Grand i10 Nios Hy-CNG duo use to offer more boot space?",
+    "expected_answer": "Hyundai Grand i10 NIOS Hy-CNG duo is equipped with a dual-cylinder system, which offers more boot space.",
+    "expected_sources": [
+      {
+        "document_name": "grand-i10-nios.pdf",
+        "page": 7
+      }
+    ]
+  }
+]

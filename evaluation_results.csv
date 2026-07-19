@@ -1,0 +1,101 @@
+Question,Expected Answer,Generated Answer,Retrieved Context,Retrieved Sources,Faithfulness,Answer Relevancy,Context Precision,Context Recall,Precision@5,Recall@5,MRR,Hit Rate,Hallucination Score,Retrieval Time,Reranking Time,LLM Generation Time,Latency,Timestamp
+What is the mileage of Maruti Suzuki Baleno CNG?,The Baleno CNG offers a mileage of 30.61 km/kg.,"The mileage of Maruti Suzuki Baleno CNG is 30.61 km/kg.
+
+Sources:
+maruti_baleno_2026.pdf | Section: mileage_and_fuel_efficiency | Page: 2","The Baleno CNG variant, available on Sigma and Delta trims, offers the best running cost per kilometre in the segment. || Specification | Value
+Mileage - Petrol MT | 22.35 km/l
+Mileage - Petrol AMT | 22.94 km/l
+Mileage - CNG | 30.61 km/kg
+Fuel Tank Capacity | 37 litres || The Baleno is powered exclusively by a 1.2L naturally aspirated K-series petrol engine, offered with a 5-speed manual or a 5-speed AMT (CVT on the Alpha variant). || Specification | Value
+Mileage - Petrol MT | 17.05 km/l
+Mileage - Petrol DCT | 17.66 km/l
+Mileage - Diesel MT | 24.08 km/l
+Mileage - Diesel AMT | 23.6 km/l
+Fuel Tank Capacity | 44 litres || Specification | Value
+Mileage - Petrol MT | 17.4 km/l
+Mileage - Petrol CVT | 16.8 km/l
+Mileage - Diesel MT | 21.0 km/l
+Mileage - Diesel AT | 18.4 km/l
+Mileage - Turbo Petrol DCT | 16.2 km/l
+Fuel Tank Capacity | 50 litres",maruti_baleno_2026.pdf:Page 2 ; maruti_baleno_2026.pdf:Page 2 ; maruti_baleno_2026.pdf:Page 2 ; tata_nexon_2026.pdf:Page 2 ; hyundai_creta_2026.pdf:Page 2,0.0,0.0,0.0,0.0,0.6,1.0,1.0,1.0,0.0,190.77,2125.63,4843.5,7159.9,2026-07-19 08:46:23
+Does the Hyundai Creta have a sunroof?,A single-pane electric sunroof is standard from the S variant upwards.,"The Hyundai Creta has a sunroof, specifically a ""Voice enabled smart panoramic sunroof"" as mentioned in Chunk 1 of the document ""creta.pdf"" (Section: interior_and_comfort, Page: 5).
+
+Sources:
+creta.pdf | interior_and_comfort | Page: 5","Overwhelming presence and discreet glamour. With its symphony of space, Hyundai CRETA is a work of art. In Hyundai CRETA, every journey is a moving moment – even when stationary. Be it the refined cockpit or the comfortable second row, one always has the best seat. The interior is the soul of Hyundai CRETA. Other features: Driver rear view monitor   I   Front row ventilated seats   I   Voice enabled smart panoramic sunroof || The Baleno does not offer a sunroof on any variant. Automatic climate control is standard from the Zeta variant onward. || Bold. Charismatic. Extraordinary. Hyundai CRETA is symbolic of all things impressive no matter how you look at it. Its black chrome parametric grille makes a striking impression. Its horizon LED positioning lamp & DRLs and quad beam LED headlamps in the front give the SUV an unmistakable presence on the road. The rear profile is also sculpted with refreshingly elements like the connecting LED tail lamps that announce its || The Creta is offered with a 1.5L MPi petrol engine and a 1.5L CRDi diesel engine. A 1.5L turbo-petrol variant is available exclusively on the SX(O) trim, paired with a 7-speed dual-clutch automatic transmission. || 6 Airbags standard
+Protects what matters the most.
+Hyundai CRETA comes equipped with 70+ advanced safety features including six airbags, as
+standard. This SUV is a reassuringly secure sanctuary for its occupants.
+All
+ESC wheel
+VSM disc
+6 airbags HAC brakes
+36 Standard safety
+features
+New
+Surround view monitor (SVM) Electric parking brake with auto hold
+New
+Blind-spot view monitor (BVM) Tyre pressure monitoring Dashcam
+system: Highline
+Other features: ECM mirror with SOS button I ISOFIX I Front and rear parking sensors",creta.pdf:Page 5 ; maruti_baleno_2026.pdf:Page 3 ; creta.pdf:Page 4 ; hyundai_creta_2026.pdf:Page 2 ; creta.pdf:Page 8,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,32.11,3167.14,9699.44,12898.69,2026-07-19 08:48:57
+What safety rating does the Tata Nexon have?,The Tata Nexon achieved a 5-star Global NCAP safety rating (Adult and Child Occupant Protection).,"The Tata Nexon was among the first Indian-made cars to achieve a 5-star Global NCAP safety rating.
+
+Sources:
+tata_nexon_2026.pdf | safety_features | Page: 2","The Nexon was among the first Indian-made cars to achieve a 5-star Global NCAP safety rating. The Fearless+ variant offers Level 2 ADAS with adaptive cruise control, forward collision warning, and automatic emergency braking. || The Nexon is available with a 1.2L turbo-petrol engine and a 1.5L turbo-diesel engine, both mated to 6-speed manual or automatic transmissions (AMT/DCT/TCU depending on the fuel type). || The Nexon offers a sub-4-metre footprint, qualifying it for a compact SUV tax bracket, while retaining a tall stance and generous boot space. || The Nexon features a 10.25-inch floating touchscreen with a JBL sound system on the top-spec Fearless+ variant, along with an Arcade.ai voice assistant. || The diesel manual variant remains the most fuel-efficient option in the Nexon lineup.",tata_nexon_2026.pdf:Page 2 ; tata_nexon_2026.pdf:Page 2 ; tata_nexon_2026.pdf:Page 3 ; tata_nexon_2026.pdf:Page 3 ; tata_nexon_2026.pdf:Page 2,0.0,0.0,0.0,0.0,0.6,1.0,1.0,1.0,0.0,73.6,3219.44,6942.89,10235.93,2026-07-19 08:50:51
+What is the engine displacement of the Grand i10 Nios?,The Grand i10 Nios has an engine displacement of 1197 cc (cm3) for the 1.2 l Kappa petrol engine.,"The provided brochure does not contain this information.
+
+Sources: 
+grand-i10-nios.pdf | engine_and_performance | Page 7
+grand-i10-nios.pdf | engine_and_performance | Page 9","Hyundai Grand i10 NIOS Hy-CNG duo is engineered to optimize every journey. Equipped with a dual-cylinder system, it offers more boot space and fuel efficiency. It ensures you have all the room you need for your || Other features: Air curtain   I   Sporty rear skid plate   I   Turn indicators on outside mirrors Style meets sophistication in the Grand i10 NIOS. The painted black radiator grille and LED daytime running lamps (DRLs) give it that refreshing look. The R15 (D=380.2 mm) diamond cut alloy wheels project an agile stance. And the tail gate design with LED tail lamps defines its sharp rear profile, giving the Grand i10 NIOS an || The Grand i10 NIOS comes equipped with various safety features. It features 6 airbags with side and curtain for added safety of all occupants. DVRM (Driver rear view monitor), Electronic Stability Control (ESC), Vehicle Stability Management (VSM) and Hill-start assist control (HAC) give you the confidence to drive freely. Other features: Child seat anchor (ISOFIX)   I   Driver rear view monitor (DRVM)   I   Speed alert system   I   Front seatbelt pretensioner with load limiters Burglar alarm   I   Rear defogger   I   Impact sensing auto door unlock   I   Speed sensing auto door lock   I   Headlamp escort system   I   Emergency stop signal Standard across all variants ABS with EBD^ 6 Airbags 3 Point seatbelt (All seats) Seatbelt reminder (All seats) Tyre pressure monitoring system (TPMS) - highline Automatic headlamps Hill-start assist control (HAC) Rear parking camera with display on audio Electronic stability control (ESC) Vehicle stability management (VSM) With ESC Without ESC || Discover agility with responsiveness as you press down the accelerator in the  Grand i10 NIOS. The powertrain || Modern well appointed interiors and refreshing layout makes the  Grand i10 NIOS stand out. Stylish upholstery and superior fit & finish combined with spacious cabin make long drives a pleasurable experience. Wireless phone charger* Driver seat height adjuster Semi fabric seat with piping Rear AC vent Footwell lighting *Works with compatible smartphone only. Other features: Tilt steering   I   Adjustable rear headrest   I   Cooled glove box",grand-i10-nios.pdf:Page 7 ; grand-i10-nios.pdf:Page 2 ; grand-i10-nios.pdf:Page 5 ; grand-i10-nios.pdf:Page 9 ; grand-i10-nios.pdf:Page 4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,53.04,2639.58,5684.11,8376.73,2026-07-19 08:53:39
+How many airbags are standard across all variants of Grand i10 Nios?,"It features 6 airbags (Driver, Passenger, Side, and Curtain) standard across all variants of Grand i10 Nios.","The Grand i10 Nios comes equipped with 6 airbags as standard across all variants. 
+
+Sources:
+grand-i10-nios.pdf | safety_features | Page: 5","The Grand i10 NIOS comes equipped with various safety features. It features 6 airbags with side and curtain for added safety of all occupants. DVRM (Driver rear view monitor), Electronic Stability Control (ESC), Vehicle Stability Management (VSM) and Hill-start assist control (HAC) give you the confidence to drive freely. Other features: Child seat anchor (ISOFIX)   I   Driver rear view monitor (DRVM)   I   Speed alert system   I   Front seatbelt pretensioner with load limiters Burglar alarm   I   Rear defogger   I   Impact sensing auto door unlock   I   Speed sensing auto door lock   I   Headlamp escort system   I   Emergency stop signal Standard across all variants ABS with EBD^ 6 Airbags 3 Point seatbelt (All seats) Seatbelt reminder (All seats) Tyre pressure monitoring system (TPMS) - highline Automatic headlamps Hill-start assist control (HAC) Rear parking camera with display on audio Electronic stability control (ESC) Vehicle stability management (VSM) With ESC Without ESC || The Baleno does not offer ADAS on any variant. All variants get dual airbags as standard, with 6 airbags offered from the Zeta variant onward. || Take control of your commute with the Grand i10 Nios corporate trim. Meticulously crafted to enhance your drive while exuding an executive presence.  Experience the convergence of technology and design that features a monochromatic black interior punctuated by strategically placed red accents, and gleaming chrome details. Other features: 3 Point seat belts (All seats)   I   Seat belt reminder (All seats)   I   Headlamp escort system   I   Burglar alarm   I   TPMS - highline   I   6 Airbags Dual tone grey interiors 17.14cm (6.75”) touchscreen display audio R15 (D = 380.2mm) Dual tone styled steel wheel Corporate emblem || The SX and SX(O) variants come equipped with Hyundai SmartSense, offering Level 2 Advanced Driver Assistance Systems (ADAS) including Forward Collision Avoidance Assist, Lane Keeping Assist, Smart Cruise Control, and Blind Spot Collision Avoidance Assist. All variants get a minimum of 6 airbags as standard. Specification Value || ADAS | Available on SX and SX(O) (Level 2)
+Airbags (Standard across range) | 6 (Dual Front, Side, Curtain)
+ESC (Electronic Stability Control) | Standard on all variants
+ABS with EBD | Standard on all variants
+Hill Assist Control | Standard on S, SX, SX(O)
+360-Degree Camera | Available on SX(O)
+Tyre Pressure Monitoring System | Standard on all variants
+Global NCAP Rating | 5-Star (Adult Occupant Protection)",grand-i10-nios.pdf:Page 5 ; maruti_baleno_2026.pdf:Page 2 ; grand-i10-nios.pdf:Page 6 ; hyundai_creta_2026.pdf:Page 2 ; hyundai_creta_2026.pdf:Page 3,0.0,0.0,0.0,0.0,0.2,1.0,1.0,1.0,0.0,28.79,1718.02,16034.04,17780.85,2026-07-19 08:56:13
+What technology does the Grand i10 Nios Hy-CNG duo use to offer more boot space?,"Hyundai Grand i10 NIOS Hy-CNG duo is equipped with a dual-cylinder system, which offers more boot space.","The Grand i10 Nios Hy-CNG duo uses a dual-cylinder system to offer more boot space.
+
+Sources:
+grand-i10-nios.pdf | engine_and_performance | Page 7","Hyundai Grand i10 NIOS Hy-CNG duo is engineered to optimize every journey. Equipped with a dual-cylinder system, it offers more boot space and fuel efficiency. It ensures you have all the room you need for your || Take control of your commute with the Grand i10 Nios corporate trim. Meticulously crafted to enhance your drive while exuding an executive presence.  Experience the convergence of technology and design that features a monochromatic black interior punctuated by strategically placed red accents, and gleaming chrome details. Other features: 3 Point seat belts (All seats)   I   Seat belt reminder (All seats)   I   Headlamp escort system   I   Burglar alarm   I   TPMS - highline   I   6 Airbags Dual tone grey interiors 17.14cm (6.75”) touchscreen display audio R15 (D = 380.2mm) Dual tone styled steel wheel Corporate emblem || The Grand i10 NIOS comes equipped with various safety features. It features 6 airbags with side and curtain for added safety of all occupants. DVRM (Driver rear view monitor), Electronic Stability Control (ESC), Vehicle Stability Management (VSM) and Hill-start assist control (HAC) give you the confidence to drive freely. Other features: Child seat anchor (ISOFIX)   I   Driver rear view monitor (DRVM)   I   Speed alert system   I   Front seatbelt pretensioner with load limiters Burglar alarm   I   Rear defogger   I   Impact sensing auto door unlock   I   Speed sensing auto door lock   I   Headlamp escort system   I   Emergency stop signal Standard across all variants ABS with EBD^ 6 Airbags 3 Point seatbelt (All seats) Seatbelt reminder (All seats) Tyre pressure monitoring system (TPMS) - highline Automatic headlamps Hill-start assist control (HAC) Rear parking camera with display on audio Electronic stability control (ESC) Vehicle stability management (VSM) With ESC Without ESC || Modern well appointed interiors and refreshing layout makes the  Grand i10 NIOS stand out. Stylish upholstery and superior fit & finish combined with spacious cabin make long drives a pleasurable experience. Wireless phone charger* Driver seat height adjuster Semi fabric seat with piping Rear AC vent Footwell lighting *Works with compatible smartphone only. Other features: Tilt steering   I   Adjustable rear headrest   I   Cooled glove box || Other features: Air curtain   I   Sporty rear skid plate   I   Turn indicators on outside mirrors Style meets sophistication in the Grand i10 NIOS. The painted black radiator grille and LED daytime running lamps (DRLs) give it that refreshing look. The R15 (D=380.2 mm) diamond cut alloy wheels project an agile stance. And the tail gate design with LED tail lamps defines its sharp rear profile, giving the Grand i10 NIOS an",grand-i10-nios.pdf:Page 7 ; grand-i10-nios.pdf:Page 6 ; grand-i10-nios.pdf:Page 5 ; grand-i10-nios.pdf:Page 4 ; grand-i10-nios.pdf:Page 2,0.0,0.0,0.0,0.0,0.2,1.0,1.0,1.0,0.0,31.43,1021.41,6602.6,7655.44,2026-07-19 08:58:42
+What is the mileage of Maruti Suzuki Baleno CNG?,The Baleno CNG offers a mileage of 30.61 km/kg.,"The mileage of Maruti Suzuki Baleno CNG is 30.61 km/kg.
+
+Sources:
+maruti_baleno_2026.pdf | Section: mileage_and_fuel_efficiency | Page: 2","The Baleno CNG variant, available on Sigma and Delta trims, offers the best running cost per kilometre in the segment. || Specification | Value
+Mileage - Petrol MT | 22.35 km/l
+Mileage - Petrol AMT | 22.94 km/l
+Mileage - CNG | 30.61 km/kg
+Fuel Tank Capacity | 37 litres || The Baleno is powered exclusively by a 1.2L naturally aspirated K-series petrol engine, offered with a 5-speed manual or a 5-speed AMT (CVT on the Alpha variant). || Specification | Value
+Mileage - Petrol MT | 17.05 km/l
+Mileage - Petrol DCT | 17.66 km/l
+Mileage - Diesel MT | 24.08 km/l
+Mileage - Diesel AMT | 23.6 km/l
+Fuel Tank Capacity | 44 litres || Specification | Value
+Mileage - Petrol MT | 17.4 km/l
+Mileage - Petrol CVT | 16.8 km/l
+Mileage - Diesel MT | 21.0 km/l
+Mileage - Diesel AT | 18.4 km/l
+Mileage - Turbo Petrol DCT | 16.2 km/l
+Fuel Tank Capacity | 50 litres",maruti_baleno_2026.pdf:Page 2 ; maruti_baleno_2026.pdf:Page 2 ; maruti_baleno_2026.pdf:Page 2 ; tata_nexon_2026.pdf:Page 2 ; hyundai_creta_2026.pdf:Page 2,0.0,0.0,0.0,0.0,0.6,1.0,1.0,1.0,0.0,272.0,6360.76,1220.44,7853.2,2026-07-19 09:09:21
+Does the Hyundai Creta have a sunroof?,A single-pane electric sunroof is standard from the S variant upwards.,"The Hyundai Creta has a sunroof, specifically a ""Voice enabled smart panoramic sunroof"" as mentioned in Chunk 1.
+
+Sources:
+- creta.pdf | interior_and_comfort | Page: 5","Overwhelming presence and discreet glamour. With its symphony of space, Hyundai CRETA is a work of art. In Hyundai CRETA, every journey is a moving moment – even when stationary. Be it the refined cockpit or the comfortable second row, one always has the best seat. The interior is the soul of Hyundai CRETA. Other features: Driver rear view monitor   I   Front row ventilated seats   I   Voice enabled smart panoramic sunroof || The Baleno does not offer a sunroof on any variant. Automatic climate control is standard from the Zeta variant onward. || Bold. Charismatic. Extraordinary. Hyundai CRETA is symbolic of all things impressive no matter how you look at it. Its black chrome parametric grille makes a striking impression. Its horizon LED positioning lamp & DRLs and quad beam LED headlamps in the front give the SUV an unmistakable presence on the road. The rear profile is also sculpted with refreshingly elements like the connecting LED tail lamps that announce its || The Creta is offered with a 1.5L MPi petrol engine and a 1.5L CRDi diesel engine. A 1.5L turbo-petrol variant is available exclusively on the SX(O) trim, paired with a 7-speed dual-clutch automatic transmission. || 6 Airbags standard
+Protects what matters the most.
+Hyundai CRETA comes equipped with 70+ advanced safety features including six airbags, as
+standard. This SUV is a reassuringly secure sanctuary for its occupants.
+All
+ESC wheel
+VSM disc
+6 airbags HAC brakes
+36 Standard safety
+features
+New
+Surround view monitor (SVM) Electric parking brake with auto hold
+New
+Blind-spot view monitor (BVM) Tyre pressure monitoring Dashcam
+system: Highline
+Other features: ECM mirror with SOS button I ISOFIX I Front and rear parking sensors",creta.pdf:Page 5 ; maruti_baleno_2026.pdf:Page 3 ; creta.pdf:Page 4 ; hyundai_creta_2026.pdf:Page 2 ; creta.pdf:Page 8,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,544.59,4508.64,3978.3,9031.53,2026-07-19 09:11:22

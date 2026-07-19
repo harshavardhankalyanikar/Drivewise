@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+*.egg-info/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Environment secrets
+.env
+
+# Data / generated artifacts
+data/processed/faiss_index/
+data/uploads/*
+!data/uploads/.gitkeep
+logs/*.log
+logs/*.jsonl
+!logs/.gitkeep
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
