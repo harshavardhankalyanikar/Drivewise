@@ -48,3 +48,4 @@ deepeval>=0.9.0
 plotly>=5.0.0
 langchain-groq
 
+torchvision>=0.19,<1.0
